@@ -1,0 +1,5 @@
+The names of these test files are directly linked to the options in the ScanType dropdown list in the Scan Tab of the application, therefore these files must be named "Quick scan.xml" and "Full scan.xml". You may modify the contents of these xml files, as long as the format provided is retained (the application will not account for improperly formatted xml - sorry). There are more test scan files located in the "Extra test files" directory, if you would like to use those, copy them from that directory into the "Test Files" directory and name them "Quick scan.xml" or "Full scan.xml". There can only be 1 file each (for a maximum of two files) in the "Test Files" directory.
+
+These test files are used to provide fake data results to the application.
+
+To make a properly formatted XML file, see the provided examples. There should only be exactly one of each tag except for <Threat> (and its corresponding sub-tags i.e. <FileName>), there can be infinite threats. The <ThreatsDetected> tag's value should be equal to the number of <Threat>'s in the XML file

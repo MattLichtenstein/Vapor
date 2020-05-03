@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResultItem>
+	<ScanType>Full scan</ScanType>
+  <FilesScanned>10348</FilesScanned>
+  <ThreatsDetected>8</ThreatsDetected>
+  <Threat>
+    <FileName>avast.exe</FileName>
+    <FilePath>/Some/Path/To/File/avast.exe</FilePath>
+    <MalwareType>Trojan</MalwareType>
+  </Threat>
+  <Threat>
+    <FileName>ransomware.jpg</FileName>
+    <FilePath>/Some/Path/To/File/ransomware.jpg</FilePath>
+    <MalwareType>Ransomware</MalwareType>
+  </Threat>
+  <Threat>
+    <FileName>thisisaworm.uhoh</FileName>
+    <FilePath>/Some/Path/To/File/thisisaworm.uhoh</FilePath>
+    <MalwareType>Worm</MalwareType>
+  </Threat>
+  <Threat>
+    <FileName>ohnothisisafalsepositive.exe</FileName>
+    <FilePath>/Some/Path/To/File/ohnothisisafalsepositive.exe</FilePath>
+    <MalwareType>Trojan</MalwareType>
+  </Threat>
+  <Threat>
+    <FileName>internetexplorer.exe</FileName>
+    <FilePath>/Some/Path/To/File/internetexplorer.exe</FilePath>
+    <MalwareType>Not malware, but you should really delete this</MalwareType>
+  </Threat>
+  <Threat>
+    <FileName>definitelynotmalwarenopenoway.txt</FileName>
+    <FilePath>/Some/Path/To/File/definitelynotmalwarenopenoway.txt</FilePath>
+    <MalwareType>Virus</MalwareType>
+  </Threat>
+  <Threat>
+    <FileName>nothingtoseehere.cpp</FileName>
+    <FilePath>/Some/Path/To/File/nothingtoseehere.cpp</FilePath>
+    <MalwareType>Trojan</MalwareType>
+  </Threat>
+  <Threat>
+    <FileName>runmeiswearimnotavirus.virus</FileName>
+    <FilePath>/Some/Path/To/File/runmeiswearimnotavirus.virus</FilePath>
+    <MalwareType>Virus</MalwareType>
+  </Threat>
+</ResultItem>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResultItem>
+	<ScanType>Quick scan</ScanType>
+  <FilesScanned>1234</FilesScanned>
+  <ThreatsDetected>0</ThreatsDetected>
+</ResultItem>

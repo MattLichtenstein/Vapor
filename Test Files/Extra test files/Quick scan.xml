@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResultItem>
+	<ScanType>Quick scan</ScanType>
+  <FilesScanned>2184</FilesScanned>
+  <ThreatsDetected>3</ThreatsDetected>
+  <Threat>
+    <FileName>notavirus.exe</FileName>
+    <FilePath>/Path/To/Virus/notavirus.exe</FilePath>
+    <MalwareType>Virus</MalwareType>
+  </Threat>
+  <Threat>
+    <FileName>notransomware.exe</FileName>
+    <FilePath>/Path/To/Ransomware/notransomware.exe</FilePath>
+    <MalwareType>Ransomware</MalwareType>
+  </Threat>
+  <Threat>
+    <FileName>notatrojan.exe</FileName>
+    <FilePath>/Path/To/Trojan/notatrojan.exe</FilePath>
+    <MalwareType>Trojan</MalwareType>
+  </Threat>
+</ResultItem>
