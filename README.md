@@ -10,12 +10,12 @@ Clone this repository to your local machine and build/compile the source code us
 
 #### Scan
 
-![](https://github.com/MattLichtenstein/Vapor/blob/master/Assets/Sketch%20files/Scan.gif?raw=true)
+![](https://github.com/MattLichtenstein/Vapor/blob/master/Assets/Gifs/Scan.gif?raw=true)
 Vapor allows you to run anti-malware scans on your system.
 
 #### Results
 
-![](https://github.com/MattLichtenstein/Vapor/blob/master/Assets/Sketch%20files/Scan%20Results.gif?raw=true)
+![](https://github.com/MattLichtenstein/Vapor/blob/master/Assets/Gifs/Scan%20Results.gif?raw=true)
 Once a scan has completed, you can view your results in the results tab
 
 ## Disclaimer
