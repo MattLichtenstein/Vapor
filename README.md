@@ -20,4 +20,4 @@ Once a scan has completed, you can view your results in the results tab.
 
 ## Disclaimer
 
-Vapor does not actually perfor malware scans on your computer, this project only contains a front-end.
+Vapor does not actually perform malware scans on your computer, this project only contains a front-end.
